@@ -1,0 +1,5 @@
+anthropic>=0.39.0
+mcp>=1.6.0
+imapclient>=3.0.1
+mail-parser>=3.15.0
+python-dotenv>=1.0.1
